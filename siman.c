@@ -5,7 +5,7 @@
 ************************************************/
 #include <stdio.h>
 
-
+// Laura Romero
 
 int getDist(char * value, char * goal);
 double acceptance(int energy, int newEnergy, double temperature);
